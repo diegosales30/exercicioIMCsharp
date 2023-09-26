@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\bin\Debug\net7.0\ExercicioIMC.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\bin\Debug\net7.0\ExercicioIMC.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\bin\Debug\net7.0\ExercicioIMC.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\bin\Debug\net7.0\ExercicioIMC.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\bin\Debug\net7.0\ExercicioIMC.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ExercicioIMC.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ExercicioIMC.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\refint\ExercicioIMC.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ExercicioIMC.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ExercicioIMC.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\ExercicioIMC\obj\Debug\net7.0\ref\ExercicioIMC.dll
